@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dheerut04
-- 👀 I’m interested in Python , Machine Learning.
+- 👀 I’m interested in Python , Machine/Deep Learning, Android Development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Machine Learning and AI.
 - 📫 How to reach me dheerajtalluru@gmail.com
